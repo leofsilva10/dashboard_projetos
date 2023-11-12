@@ -22,11 +22,7 @@ E se você quiser detalhar ainda mais as informações de cada um dos projetos, 
 
 De forma automática, o dashboard exibe apenas as informações solicitadas, facilitando o acompanhamento do realizado x previsto.
 
-Detalhes dos Custos: 
-
 ![image](https://github.com/leofsilva10/dashboard_projetos/assets/114931860/0dcbec82-756c-428d-bd41-c2e3508ff0d8)
-
-Detalhes do Trabalho:
 
 ![image](https://github.com/leofsilva10/dashboard_projetos/assets/114931860/c9884c34-e581-48ef-a41a-4152a2e370eb)
 
